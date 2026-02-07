@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "パズル",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-02-07T05:18:15.093627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パズル -extra hot mix-",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": true,
+      "path": "select/01_パズル_-extra_hot_mix-_ROUND_TABLE_featuring_Nino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "apple41",
+      "has_synced": true,
+      "path": "select/02_パズル_apple41.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "apple41 (KuwagataP)",
+      "has_synced": true,
+      "path": "select/03_パズル_apple41_(KuwagataP).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "伊藤かな恵",
+      "has_synced": true,
+      "path": "select/04_パズル_伊藤かな恵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パズル -extra hot mix-",
+      "artist": "ROUND TABLE Feat. Nino",
+      "has_synced": true,
+      "path": "select/05_パズル_-extra_hot_mix-_ROUND_TABLE_Feat._Nino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パズル －extra hot mix－",
+      "artist": "ROUND TABLE",
+      "has_synced": true,
+      "path": "select/06_パズル_-extra_hot_mix-_ROUND_TABLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パズル －extra hot mix－",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": true,
+      "path": "select/07_パズル_-extra_hot_mix-_ROUND_TABLE_featuring_Nino.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "パズル -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "kuwagataP",
+      "has_synced": true,
+      "path": "select/08_パズル_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_kuwagataP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/09_パズル_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/10_パズル_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パズル－extra hot mix－",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": true,
+      "path": "select/11_パズル-extra_hot_mix-_ROUND_TABLE_featuring_Nino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "クワガタP/初音ミク",
+      "has_synced": false,
+      "path": "select/12_パズル_クワガタP_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "パズル－extra hot mix－",
+      "artist": "ROUND TABLE",
+      "has_synced": true,
+      "path": "select/13_パズル-extra_hot_mix-_ROUND_TABLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "パズル",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/14_パズル_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "パズル -extra hot mix-",
+      "artist": "ROUND TABLE Feat. Nino",
+      "has_synced": true,
+      "path": "select/15_パズル_-extra_hot_mix-_ROUND_TABLE_Feat._Nino.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "パズル -extra hot mix-",
+      "artist": "ROUND TABLE",
+      "has_synced": true,
+      "path": "select/16_パズル_-extra_hot_mix-_ROUND_TABLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パズル",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_パズル_幾田りら.txt"
+    }
+  ]
+}
